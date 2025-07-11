@@ -2,7 +2,7 @@
 - 👀 I’m interested in... Competitive Programming and Machine Learning
 - 🌱 I’m currently learning... CP and ML.
 - 📫 How to reach me ... CF - [soham_c04](https://codeforces.com/profile/soham_c04), CC - [soham_c04](https://www.codechef.com/users/soham_c04), [LinkedIn](https://www.linkedin.com/in/soham-chakraborty-02b55329a/), LeetCode - [soham_c04](https://leetcode.com/u/soham_c04/)
-- Codeforces Rating (max.) - 1875, Codechef Rating (max.) - 2144
+- Codeforces Rating (max.) - 1875 (Expert), Codechef Rating (max.) - 2144 (5 star), Leetcode Rating (max.) - 2170 (Guardian)
 
 <!---
 soham-c04/soham-c04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
